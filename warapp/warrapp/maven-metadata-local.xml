@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.mycompany.warapp</groupId>
+  <artifactId>warrapp</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20231022151238</lastUpdated>
+  </versioning>
+</metadata>
